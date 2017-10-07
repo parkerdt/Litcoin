@@ -1,0 +1,2 @@
+# Litcoin
+Cryptocurrency
